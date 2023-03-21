@@ -1,0 +1,16 @@
+/* ?sm */
+@media screen and (min-width:576px) {}
+
+/* ?md */
+@media screen and (min-width:768px) {
+    .blue-stripe{
+        background-color: #002A43;
+        height: 100px;
+    }
+}
+
+/* ?lg */
+@media screen and (min-width:992px) {}
+
+/* ?xl */
+@media screen and (min-width:1200px) {}

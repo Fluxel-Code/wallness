@@ -1,0 +1,117 @@
+.bg-banner{
+    background-image: url(../img/banner.png);
+    /* height: 100vh; */
+}
+
+
+.bg-blue-dark{
+    background-color: #002A43;
+}
+
+.pack-bg{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* FORM */
+.form-banner{
+    border:  3px solid #ffc107;
+    padding: 12px;
+    height: 50px;
+    font-size: 16px;
+}
+
+.form-banner::placeholder{
+    color: black;
+}
+
+select, option{
+    color: black !important;
+}
+
+
+/* BTN */
+.btn-yellow{
+    background-color: #ffc107;
+}
+
+/* HEIGHT */
+.h-100px{
+    height: 100px;
+}
+
+.h-50p{
+    height: 50px;
+}
+
+/* WIDTH */
+.w-200p{
+    width: 200px;
+}
+
+.w-300p{
+    width: 300px;
+}
+
+.w-70p{
+    width: 70px;
+}
+
+/* FONT-SIZE */
+.zise-18{
+    font-size: 18px;
+}
+
+/* ROUNDED */
+.rounded-xl{
+    border-radius: 14px;
+}
+
+.rounded-xl-top{
+    border-top-right-radius: 14px;
+    border-top-left-radius: 14px;
+}
+
+/* TEXTO-COLORS */
+.text-dark-blue{
+    color: #002A43;
+}
+
+.text-aqua-light{
+    color: #5B92B2;
+}
+
+/** COMPONENTES */
+/* .blue-stripe{
+    background-color: #002A43;
+    height: 100px;
+} */
+
+.shadow-xl{
+    box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.277);
+}
+
+.square{
+    padding-top: 45px;
+    padding-bottom: 25px;
+}
+
+.icon_square{
+    width: 50px;
+    height: 50px;
+}
+
+.top-neg-35{
+    top: -35px;
+}
+
+.gap-13{
+    gap: 13px;
+}
+
+/* MARGIN */
+.my-100{
+    margin-top: 100px;
+    margin-bottom: 80px;
+}
