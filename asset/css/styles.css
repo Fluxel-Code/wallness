@@ -82,6 +82,10 @@ select, option{
     color: #5B92B2;
 }
 
+.font-weight-500{
+    font-weight: 500;
+}
+
 /** COMPONENTES */
 /* .blue-stripe{
     background-color: #002A43;
